@@ -7,4 +7,5 @@ This repository contains data I used in my analysis to figure out the interests 
 python 3.7 and above
 
 pandas - this is a python library for data-analysis. You can install it using a simple `pip install pandas` in command line or `!pip install pandas` on your jupyter notebook.
+
 matplotlib - this is a python library for data visualization. you use the same pip command here, i.e `pip install matplotlib`
